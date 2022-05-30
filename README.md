@@ -4,4 +4,4 @@
 
 Запросы на создание таблиц – creating_tables.sql. 
 
-![noir](https://user-images.githubusercontent.com/86073105/171047600-3b4e7607-d7e1-4842-904d-7bc72b97968a.png)
+![noir2](https://user-images.githubusercontent.com/86073105/171047972-c3a1b39b-fbae-4e94-9d12-b1f3378595d6.png)
